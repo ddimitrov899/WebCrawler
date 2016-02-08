@@ -1,0 +1,6 @@
+D:\Github\Repo\Projects\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+D:\Github\Repo\Projects\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+D:\Github\Repo\Projects\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+D:\Github\Repo\Projects\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+D:\Github\Repo\Projects\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+D:\Github\Repo\Projects\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
